@@ -21,7 +21,7 @@ int main() {
                 cout << ", ";
             cout << subset[i];
         }
-        cout << "}\n";
+        cout << "}" << endl;
     }
     return 0;
 }
