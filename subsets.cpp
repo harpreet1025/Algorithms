@@ -16,7 +16,7 @@ int main() {
                 subset.push_back(val);
 
         cout << "{";
-        for(int i=0; i < subset.size(); i++){
+        for(int i=0; i < subset.size(); i++) {
             if(i)
                 cout << ", ";
             cout << subset[i];
